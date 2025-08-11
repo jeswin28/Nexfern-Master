@@ -19,20 +19,7 @@ const Team = () => {
       bio: 'Fueling startup momentum through strategy, and scalable systems',
       socials: { linkedin: 'https://www.linkedin.com/in/johnjimevansv/' },
     },
-    {
-      name: 'Vijay Roy',
-      role: 'Marketing Manager',
-      image: '/Vijay.JPG',
-      bio: 'Growth strategist with expertise in digital marketing',
-      socials: { linkedin: '' },
-    },
-    {
-      name: 'Praveen Rakesh',
-      role: 'Development Manager',
-      image: '/Praveen.JPG',
-      bio: 'Creative director crafting beautiful user experiences',
-      socials: { linkedin: 'https://www.linkedin.com/in/praveen-rakesh-malladi-1519b0290/' },
-    },
+    
     {
       name: 'Rishika Muppidi',
       role: 'Admin Operations Manager',
@@ -41,18 +28,11 @@ const Team = () => {
       socials: { linkedin: 'https://www.linkedin.com/in/rishika-muppidi-aa14b9319/' },
     },
     {
-      name: 'Harika Paparao Munji',
-      role: 'UI/UX Lead',
-      image: '/Harika.JPG',
-      bio: 'Designs experiences users love to interact with',
-      socials: { linkedin: 'https://www.linkedin.com/in/harika-munji-7b9370325/' },
-    },
-    {
-      name: 'Kiran Kumar Kamandhula',
-      role: 'Developer',
-      image: '/Kiran.JPG',
-      bio: 'Crafts high-performance backend systems',
-      socials: { linkedin: 'https://www.linkedin.com/in/kiran-kumar-36b035267/' },
+      name: 'Vijay Roy',
+      role: 'Marketing Head',
+      image: '/Vijay.JPG',
+      bio: 'Growth strategist with expertise in digital marketing',
+      socials: { linkedin: '' },
     },
     {
       name: 'Beshitha Bavissetty',
@@ -60,6 +40,13 @@ const Team = () => {
       image: '/beshitha.png',
       bio: 'Helps clients align solutions with business goals',
       socials: { linkedin: 'https://www.linkedin.com/in/beshita-bavisetty-182a4a33b/' },
+    }, 
+    {
+      name: 'Benedict Kundam ',
+      role: 'Graphic Designer ',
+      image: '/Benedict.jpg',
+      bio: 'Designs visuals that resonate and convert',
+      socials: { linkedin: 'https://www.linkedin.com/in/kundam-benedict-642a08241/' },
     },
     {
       name: 'Charan Nayak',
@@ -70,7 +57,7 @@ const Team = () => {
     },
     {
       name: 'Nitesh Messipogu',
-      role: 'Designer',
+      role: 'Social Media Manager',
       image: '/Nitesh.JPG',
       bio: 'Designs visuals that resonate and convert',
       socials: { linkedin: 'https://www.linkedin.com/in/nithesh-nikki-3b700a31a/' },
